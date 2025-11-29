@@ -171,7 +171,7 @@ const App = () => {
   const whatsappLink = `https://wa.me/${whatsappNumber}`;
 
   // Image URLs
-  const heroImage = "Gemini_Generated_Image_7rinbh7rinbh7rin.png"; 
+  const heroImage = "/Gemini_Generated_Image_7rinbh7rinbh7rin.png"; 
   
   const imgIntermediate = "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?auto=format&fit=crop&q=80&w=800&h=400&crop=entropy";
   const imgSecondary = "https://images.unsplash.com/photo-1427504494785-3a9ca7044f45?auto=format&fit=crop&q=80&w=800&h=400&crop=entropy";
